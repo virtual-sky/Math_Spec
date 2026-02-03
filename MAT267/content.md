@@ -1,4 +1,4 @@
-This mapping links the timestamps from the lecture transcripts to the corresponding sections in the **MAT267.pdf** notes.
+This mapping links the timestamps from the lecture transcripts to the corresponding sections in the **MAT267.pdf** notes. It will be updated as the course goes on.
 
 ### **Lecture 1**
 | Timestamp | Topic | MAT267.pdf Section | Page |
