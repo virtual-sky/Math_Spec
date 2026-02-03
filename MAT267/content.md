@@ -1,4 +1,5 @@
 This mapping links the timestamps from the lecture transcripts to the corresponding sections in the **MAT267.pdf** notes. It will be updated as the course goes on.
+It's AI-generated based on transcripts in #mat267-resources in the math spec discord, and is lightly edited.
 
 ### **Lecture 1**
 | Timestamp | Topic | MAT267.pdf Section | Page |
