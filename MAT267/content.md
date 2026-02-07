@@ -115,6 +115,7 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 
 ---
 
+### **Lecture 9**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:00] | Solving $x'=Ax$ via Picard Iteration | Section 8 | 23 |
@@ -129,3 +130,16 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 | [91:16] | Midterm Information and Closing | **Not in notes** | N/A |
 
 ---
+
+### **Lecture 10**
+| Timestamp | Topic | MAT267.pdf Section | Page |
+| :--- | :--- | :--- | :--- |
+| [00:00] | Statement: Existence and Uniqueness Theorem | Section 4.1 / Theorem 4.1 | 7 |
+| [02:33] | Uniqueness Proof 1: Picard Iterates Approach | Section 4.3 | 10 |
+| [08:33] | Iterative Bounds and Factorial Growth | Section 4.3 / Eq (4.12) | 10 |
+| [18:33] | Bounds on the Rectangle $R$ (Speed vs. Distance) | Section 4.2 / Lemma 4.3 | 9 |
+| [22:34] | Uniqueness Proof 2: Gronwall’s Inequality | Section 4.4 | 11 |
+| [29:16] | Solving Differential Inequalities ($U' \leq KU$) | Section 4.4 / Proof of 4.5 | 11 |
+| [46:12] | General Gronwall’s Inequality (Variable $K(x)$) | Section 4.4 / Theorem 4.6 | 12 |
+| [49:17] | Midterm Logistics | **Not in notes** | N/A |
+| [49:30] | Maximal Interval of Existence (Achilles Paradox) | Section 4.5 | 13 |
