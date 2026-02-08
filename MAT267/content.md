@@ -122,11 +122,6 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 | [07:53] | Osgood's Uniqueness Theorem (Intro & Remarks) | Section 12.3 / Theorem 12.24 | 40 |
 | [22:11] | Proof of Osgood's Uniqueness Theorem | **In separate notes** | 40–42 |
 | [73:21] | Existence & Uniqueness via Banach Fixed Point | Section 12.3 / Theorem 12.20 | 37 |
-| [77:08] | Setting up the Workspace (Rectangle $R$ and Space $X$) | Section 12.3 (Contraction Mapping) | 37 |
-| [81:11] | The Picard Map ($\Gamma$) and Fixed Point | Section 12.3 (Contraction Mapping) | 37 |
-| [82:36] | Step 1: $\Gamma$ maps $X$ to $X$ | Section 12.3 (Contraction Mapping) | 37 |
-| [86:09] | Step 2: $\Gamma$ is a Contraction | Section 12.3 (Contraction Mapping) | 37 |
-| [89:03] | Step 3: Conclusion via Banach Fixed Point Theorem | Section 12.3 (Contraction Mapping) | 38 |
 | [91:16] | Midterm Information and Closing | **Not in notes** | N/A |
 
 ---
