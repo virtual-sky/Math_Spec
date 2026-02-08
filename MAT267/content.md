@@ -139,4 +139,3 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 | [22:34] | Uniqueness Proof 2 (Gronwall’s Inequality) | Section 12.3 / Proof 2 | 39–40 |
 | [46:12] | Generalized Gronwall’s Inequality | Theorem 12.23 | 40 |
 | [49:30] | Continuation of Solutions & Global Existence, Midterm Info | Section 12.31 / Theorem 12.32 | 43 |
-| Timestamp | Topic | MAT267.pdf Section | Page |
