@@ -134,3 +134,21 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 | [22:34] | Uniqueness Proof 2 (Gronwall’s Inequality) | Section 12.3 / Proof 2 | 39–40 |
 | [46:12] | Generalized Gronwall’s Inequality | Theorem 12.23 | 40 |
 | [49:30] | Continuation of Solutions & Global Existence, Midterm Info | Section 12.31 / Theorem 12.32 | 43 |
+
+
+---
+
+### **Lecture 11**
+| Timestamp | Topic | MAT267.pdf Section | Page |
+| :--- | :--- | :--- | :--- |
+| [00:00] | Midterm Discussion & Grading | **Not in notes** | N/A |
+| [02:08] | Review: Euler Method ($G_\tau$) & Convergence | **Not in notes** (Related to Sec 12) | N/A |
+| [04:00] | Continuous Dependence Introduction | Section 13: Continuous Dependence | 45 |
+| [05:07] | Theorem 13.1: Grönwall’s Lemma (Generalised) | Section 13 / Theorem 13.1 | 45 |
+| [06:35] | Grönwall’s Lemma: Particular Case ($f(t) \equiv k$) | Section 13 / Theorem 13.1 | 45 |
+| [07:31] | Verification of Constant Case (Integrating Factor Logic) | Section 13 (Verification section) | 46 |
+| [11:28] | Grönwall Proof 1: Iteration & Taylor Series | Section 13 / Proof 1 | 46–47 |
+| [23:30] | Grönwall Proof 2: Integrating Factors | Section 13 / Proof 2 | 48 |
+| [35:25] | Theorem 13.2: Estimate for Differing Solutions | Section 13 / Theorem 13.2 | 48 |
+| [38:14] | Analysis of Estimate: Cases for $\epsilon$ and $\delta$ | Section 13 / Remark 13.3 | 49 |
+| [43:52] | Proof of Theorem 13.2 (using Grönwall) | Section 13 / Proof of Thm 13.2 | 49 |
