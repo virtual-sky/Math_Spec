@@ -135,7 +135,6 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 | [46:12] | Generalized Gronwall’s Inequality | Theorem 12.23 | 40 |
 | [49:30] | Continuation of Solutions & Global Existence, Midterm Info | Section 12.31 / Theorem 12.32 | 43 |
 
-
 ---
 
 ### **Lecture 11**
@@ -152,3 +151,21 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 | [35:25] | Theorem 13.2: Estimate for Differing Solutions | Section 13 / Theorem 13.2 | 48 |
 | [38:14] | Analysis of Estimate: Cases for $\epsilon$ and $\delta$ | Section 13 / Remark 13.3 | 49 |
 | [43:52] | Proof of Theorem 13.2 (using Grönwall) | Section 13 / Proof of Thm 13.2 | 49 |
+
+---
+
+### **Lecture 12**
+| Timestamp | Topic | MAT267.pdf Section | Page |
+| :--- | :--- | :--- | :--- |
+| [00:06] | Review: Gronwall's Inequality | Section 12.3: Uniqueness of solutions | 39 |
+| [05:22] | Jacobian Matrix & Variational Equation Setup | Section 14: Flow of Dynamical Systems | 50 |
+| [08:04] | Unique Solutions for Linear Systems | Corollary 13.3.1 | 49 |
+| [10:52] | Differentiation of Matrix Integrals | **Not explicitly in notes** | N/A |
+| [18:53] | Proposition: Linearization Approximation | Proposition 14.1 | 50 |
+| [24:18] | Proof of Proposition 14.1 | Section 14 | 51 |
+| [42:27] | Theorem: Smoothness of Flows | Section 14 | 52 |
+| [50:18] | Special Case: Approximation near Equilibria | Section 14 (Bottom) | 52 |
+| [55:25] | Informal/Formal Calculation of Spatial Derivative | Section 14 (Summary) | 52 |
+| [63:05] | Uniform Contraction Principle | Theorem 12.27 | 42 |
+| [69:08] | Differentiability via Implicit Function Theorem | Section 12.2 (End of Proof) | 42 |
+| [77:43] | Extending Solutions & Maximal Intervals | Theorem 12.32 | 43 |
