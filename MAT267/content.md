@@ -169,3 +169,51 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 | [63:05] | Uniform Contraction Principle | Theorem 12.27 | 42 |
 | [69:08] | Differentiability via Implicit Function Theorem | Section 12.2 (End of Proof) | 42 |
 | [77:43] | Extending Solutions & Maximal Intervals | Theorem 12.32 | 43 |
+
+---
+
+### **Lecture 13**
+| Timestamp | Topic | MAT267.pdf Section | Page |
+| :--- | :--- | :--- | :--- |
+| [00:00] | Loose Ends: Treating parameters as initial values | Section 12.3 / Intro to Section 13 | 44 |
+| [03:30] | Computing Matrix Exponentials via Jordan Form | Section 7.2 & Section 8 | 23–24 |
+| [14:59] | $C^1$ Functions and Local Lipschitz Condition (Operator Norm) | Definition 12.31 | 43 |
+| [25:59] | Global Existence and Uniqueness Theorem (Maximal Interval) | Theorem 12.32 | 43 |
+| [32:19] | Proof of the Global Existence and Uniqueness Theorem | Theorem 12.32 (Proof) | 43–44 |
+| [48:00] | Corollary on Compact Sets (HST reference) | Theorem 12.32 (Proof conclusion) | 44 |
+
+---
+
+### **Lecture 14**
+| Timestamp | Topic | MAT267.pdf Section | Page |
+| :--- | :--- | :--- | :--- |
+| [00:38] | Determinant of Matrix Exponential & Jacobi's Formula | **Not in notes** | N/A |
+| [05:27] | Midterm Logistics | **Not in notes** | N/A |
+| [09:24] | Review of Linear Systems ($X' = AX$) | Section 5: Linear System of ODEs | 9–10 |
+| [12:25] | General Solution via Eigenvalues & Eigenvectors | Section 5 / Lemma 5.1 | 12 |
+| [14:41] | Phase Portrait: Saddle Point | Section 5.3.1: Saddle Point | 12 |
+| [17:38] | Phase Portrait: Unstable Node | Section 5.3.2: Unstable Node | 13 |
+| [22:28] | Phase Portrait: Stable Node | Section 5.3.3: Stable Node | 13 |
+| [32:32] | Complex Numbers & Complex Eigenvalues | Section 5.3.4: Center / Lemma 5.3 | 15 |
+| [41:34] | Real and Imaginary Parts of Complex Solutions | Section 5.3.4: Center / Lemma 5.4 | 16 |
+| [45:42] | Phase Portrait: Center | Section 5.3.4: Center | 14 |
+| [64:44] | Repeated Eigenvalues & Generalized Eigenvectors | Section 5.4: Repeated eigenvalues (Part I) | 18 |
+
+---
+
+### **Lecture 15**
+| Timestamp | Topic | MAT267.pdf Section | Page |
+| :--- | :--- | :--- | :--- |
+| [00:00] | Questions & Logistics | **Not in notes** | N/A |
+| [00:48] | Repeated Eigenvalues: Non-diagonalizable (Positive) | Section 5.4 | 18–19 |
+| [03:59] | Repeated Eigenvalues: Non-diagonalizable (Negative) | Section 5.4 / Section 6 (Table 2) | 18–19, 21 |
+| [05:46] | Degenerate Cases: One Zero Eigenvalue | Section 6 (Table 2) | 21 |
+| [07:55] | Repeated Eigenvalues: Diagonalizable ($A = \lambda I$) | Section 5.5 / Section 6 (Table 2) | 19, 21 |
+| [10:50] | Degenerate Cases: Zero Matrix ($A = 0$) | Section 6 (Table 2) | 21 |
+| [11:21] | Preview of Linearisation & Conjugacy | Section 10 / Section 14.1 | 26, 52–53 |
+| [15:26] | Clarification: Phase Portraits for Non-diagonalizable Matrices | Section 5.4 | 18–19 |
+| [18:04] | Trace-Determinant Plane Classification Introduction | Section 6 | 20 |
+| [20:30] | Generic Cases: Unstable Node & Saddle | Section 6 (Table 1) | 20 |
+| [29:14] | Generic Cases: Complex Eigenvalues (Spirals/Centers) | Section 6 (Table 1) | 20 |
+| [33:10] | Degenerate Cases Review: Trace-Determinant Boundary | Section 6 (Table 2) | 21 |
+| [40:31] | Genericity & Stability under Perturbation | Section 7 | 21 |
