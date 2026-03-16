@@ -217,3 +217,19 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 | [29:14] | Generic Cases: Complex Eigenvalues (Spirals/Centers) | Section 6 (Table 1) | 20 |
 | [33:10] | Degenerate Cases Review: Trace-Determinant Boundary | Section 6 (Table 2) | 21 |
 | [40:31] | Genericity & Stability under Perturbation | Section 7 | 21 |
+
+---
+
+### **Lecture 16**
+| Timestamp | Topic | MAT267.pdf Section | Page |
+| :--- | :--- | :--- | :--- |
+| [00:00] | Trace-Determinant Plane | Section 6: Trace-Determinant Plane | 20 |
+| [02:00] | Hyperbolic Equilibrium | Definition 7.1 (Hyperbolicity) | 21 |
+| [03:55] | Generic Properties | Definition 7.2 (Genericity) | 21 |
+| [13:17] | Distinct Eigenvalues are Generic | Theorem 7.3 | 21 |
+| [14:57] | Cayley Hamilton Theorem | Corollary 7.3.1 | 21 |
+| [24:38] | Change of Variables | Section 7.1: Canonical Forms | 22 |
+| [30:54] | Solving Jordan Blocks | Section 7.2: Solving Jordan Blocks | 23 |
+| [34:02] | Second Method for Jordan Blocks ($y = e^{t\lambda}z$) | Section 7.2: Solving Jordan Blocks | 23 |
+| [41:31] | Transforming Back & Matrix Exponentials | Section 8: Matrix Exponentials | 23-24 |
+| [43:29] | Unique Solution to the ODE ($e^{tA}$) | Section 8: Matrix Exponentials | 25 |
