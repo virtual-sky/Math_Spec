@@ -1,7 +1,7 @@
 This mapping links the timestamps from the lecture transcripts to the corresponding sections in the **MAT267.pdf** notes. It will be updated as the course goes on.
 It's AI-generated based on transcripts in #mat267-resources in the math spec discord, and is lightly edited.
 
-### **Lecture 1**
+### **Lecture 1 (Wednesday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:00] | Course Logistics & Academic Integrity | **Not in notes** | N/A |
@@ -16,7 +16,7 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 2**
+### **Lecture 2 (Friday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [06:22] | Separation of Variables (Method) | Section 17.1 | 71 |
@@ -29,7 +29,7 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 3**
+### **Lecture 3 (Wednesday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [14:49] | Detailed Non-uniqueness Analysis | Section 12 | 30 |
@@ -44,7 +44,7 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 4**
+### **Lecture 4 (Friday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [05:59] | Phase Portraits ($2 \times 2$) | Section 5.3 | 12–13 |
@@ -57,7 +57,7 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 5**
+### **Lecture 5 (Wednesday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:52] | Exact Differential Equations | Section 17.3 | 73–74 |
@@ -69,7 +69,7 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 6**
+### **Lecture 6 (Friday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [01:51] | Banach Contraction Mapping Theorem | Theorem 12.10 | 32 |
@@ -80,9 +80,7 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **MAT267.pdf** notes (Prakash, 2022), here is the mapping of the material.
-
-### **Lecture 7**
+### **Lecture 7 (Wednesday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:43] | Three Goals: Existence, Uniqueness, Continuous Dependence | Section 12.2 | 32 |
@@ -100,7 +98,7 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 
 ---
 
-### **Lecture 8**
+### **Lecture 8 (Friday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:58] | Recap of Local Peano Theorem | Theorem 12.17 | 35 |
@@ -115,7 +113,7 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 
 ---
 
-### **Lecture 9**
+### **Lecture 9 (Wednesday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:00] | Solving $x'=Ax$ via Picard Iteration | Section 8 | 23 |
@@ -126,7 +124,7 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 
 ---
 
-### **Lecture 10**
+### **Lecture 10 (Friday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:52] | Existence and Uniqueness Theorem Statement | Section 12.3 / Theorem 12.20 | 37 |
@@ -137,7 +135,11 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 
 ---
 
-### **Lecture 11**
+### **Midterm 1**
+
+---
+
+### **Lecture 11 (Friday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:00] | Midterm Discussion & Grading | **Not in notes** | N/A |
@@ -154,7 +156,7 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 
 ---
 
-### **Lecture 12**
+### **Lecture 12 (Wednesday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:06] | Review: Gronwall's Inequality | Section 12.3: Uniqueness of solutions | 39 |
@@ -172,7 +174,7 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 
 ---
 
-### **Lecture 13**
+### **Lecture 13 (Friday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:00] | Loose Ends: Treating parameters as initial values | Section 12.3 / Intro to Section 13 | 44 |
@@ -184,7 +186,7 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 
 ---
 
-### **Lecture 14**
+### **Lecture 14 (Wednesday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:38] | Determinant of Matrix Exponential & Jacobi's Formula | **Not in notes** | N/A |
@@ -201,7 +203,7 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 
 ---
 
-### **Lecture 15**
+### **Lecture 15 (Friday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:00] | Questions & Logistics | **Not in notes** | N/A |
@@ -220,7 +222,11 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 
 ---
 
-### **Lecture 16**
+### **Midterm 2**
+
+---
+
+### **Lecture 16 (Friday)**
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:00] | Trace-Determinant Plane | Section 6: Trace-Determinant Plane | 20 |
@@ -233,3 +239,52 @@ Based on the lecture transcripts for **Lecture 7** and **Lecture 8** and the **M
 | [34:02] | Second Method for Jordan Blocks ($y = e^{t\lambda}z$) | Section 7.2: Solving Jordan Blocks | 23 |
 | [41:31] | Transforming Back & Matrix Exponentials | Section 8: Matrix Exponentials | 23-24 |
 | [43:29] | Unique Solution to the ODE ($e^{tA}$) | Section 8: Matrix Exponentials | 25 |
+
+---
+
+### **Lecture 17 (Wednesday)**
+
+| Timestamp | Topic | MAT267.pdf Section | Page |
+| :--- | :--- | :--- | :--- |
+| [00:00] | Matrix Properties: Eigenvalues & Multiplicity | **Foundational / Exercise Review** | N/A |
+| [13:21] | Inhomogeneous Linear Systems: Variation of Constants | Section 9: Inhomogeneous Linear Systems | 25 |
+| [17:43] | Duhamel's Formula Derivation | Section 9.1: Duhamel's Principle | 26 |
+| [18:41] | Generality of Duhamel (Heat Equation Example) | **Not in notes** | N/A |
+| [22:21] | Dynamical Systems: Trajectories vs. Flows | Section 11: Dynamical Systems | 28–29 |
+| [25:42] | The Semigroup Property ($\phi_{s+t} = \phi_s \circ \phi_t$) | Section 11 / Figure 15 | 29 |
+| [29:19] | Linearisation of Autonomous Systems ($x' = f(x)$) | Section 10: Linearisation | 26 |
+| [33:59] | Taylor Expansion around Equilibria | Section 10 | 26 |
+| [36:38] | Hyperbolic Equilibria & Stability | Definition 7.1 / Section 10 | 21, 26 |
+| [42:21] | Example: The Mathematical Pendulum | Section 10.1: Example | 27 |
+| [46:30] | Pendulum Steady States & Intuition | Section 10.1 | 27 |
+| [48:01] | Linearising the Pendulum (Saddle at Top) | Section 10.1 | 28 |
+| [53:12] | Linearising the Pendulum (Bottom: Sink vs. Spiral) | Section 10.1 | 28 |
+| [57:12] | Classification of Flow: Similarity and Conjugacy | Section 14.1: Classification of Flow | 52 |
+| [58:30] | Example 1: Non-conjugacy of Constant Flows | Section 14.1.1: Example 1 | 53 |
+| [60:12] | Example 2: Global Conjugacy (Saddle) | Section 14.1.2: Example 2 | 53–54 |
+| [67:31] | Example 3: Local Conjugacy & Polar Coordinates | Section 14.1.3: Example 3 | 55–56 |
+| [74:40] | Qualitative Analysis & Limit Cycles | Section 14.1.3 | 56 |
+| [78:32] | Constructing Homeomorphisms via Flow | Section 14.1.3 / Section 14.2 | 56–60 |
+
+---
+
+### **Lecture 18 (Friday)**
+
+| Timestamp | Topic | MAT267.pdf Section | Page |
+| :--- | :--- | :--- | :--- |
+| [00:00] | Course Logistics & Tutorial 11 Intro | **Not in notes** | N/A |
+| [01:10] | Linearization Example: Rotation + Epsilon | Section 14.1.4 | 56 |
+| [06:08] | Linearization Example: $x'=x^2, y'=-y$ | Section 14.1.5 | 57 |
+| [10:29] | Linearization Example: Jacobian = 0 | Section 14.1.1 | 53 |
+| [11:22] | Visual Proof of Non-conjugacy | Section 14.1 | 53 |
+| [14:17] | Concept of Similarity / Conjugacy | Section 14.1 | 52 |
+| [18:06] | Formal Definitions: Conjugacy (Matrices, Groups, Maps) | Section 14.1 | 52 |
+| [22:29] | Definitions: Stable and Unstable Equilibria | Section 14.2 / Definition 14.4 | 57 |
+| [28:30] | Definition: Asymptotic Stability | Definition 14.7 | 57 |
+| [31:02] | Lyapunov Functions Intuition | Section 15.2 | 63 |
+| [33:06] | Hartman-Grobman Theorem Statement | Theorem 14.9 | 58 |
+| [36:19] | Stable/Unstable Curves & Manifolds | Section 14.2 / Definition 14.13 | 58, 62 |
+| [38:45] | Diffeomorphic Conjugacy & Resonance | Section 14.2 | 58 |
+| [40:51] | Limitations of Topological Conjugacy | Section 14.2 | 58 |
+| [42:41] | 2D Special Case: Saddle Point Conjugacy | Section 14.2 | 58 |
+| [44:56] | Preview: Sinks and Distinct Negative Eigenvalues | Lemma 14.10 / Prop 14.12 | 58, 60 |
