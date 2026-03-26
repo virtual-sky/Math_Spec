@@ -264,7 +264,7 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 | [60:12] | Example 2: Global Conjugacy (Saddle) | Section 14.1.2: Example 2 | 53–54 |
 | [67:31] | Example 3: Local Conjugacy & Polar Coordinates | Section 14.1.3: Example 3 | 55–56 |
 | [74:40] | Qualitative Analysis & Limit Cycles | Section 14.1.3 | 56 |
-| [78:32] | Constructing Homeomorphisms via Flow | Section 14.1.3 / Section 14.2 | 56–60 |
+| [78:32] | Constructing Homeomorphisms via Flow | Section 14.1.3 | 56 |
 
 ---
 
