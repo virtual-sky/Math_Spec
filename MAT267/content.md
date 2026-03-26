@@ -1,7 +1,12 @@
 This mapping links the timestamps from the lecture transcripts to the corresponding sections in the **MAT267.pdf** notes. It will be updated as the course goes on.
-It's AI-generated based on transcripts in #mat267-resources in the math spec discord, and is lightly edited.
+It's AI-generated based on transcripts in #mat267-resources in the math spec discord, and is lightly edited. Week numbers follow the course syllabus (reading week counts as its own week, so there are 13 weeks in total). 
 
-### **Lecture 1 (Wednesday)**
+[Old lecture recordings](https://utoronto-my.sharepoint.com/:f:/g/personal/richardc_wang_mail_utoronto_ca/IgAu4rXrWjNURrpTCZdS8MRoAZV8US_JDesj4Z7tUo4QmMI?e=Xa4xvK)
+
+### **Lecture 1 (Wednesday, Week 1)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"13liFcxrvN_RkK_FcHWYpEqWsBCjcNvfL"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:00] | Course Logistics & Academic Integrity | **Not in notes** | N/A |
@@ -16,7 +21,10 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 2 (Friday)**
+### **Lecture 2 (Friday, Week 1)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"13liFcxrvN_RkK_FcHWYpEqWsBCjcNvfL"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [06:22] | Separation of Variables (Method) | Section 17.1 | 71 |
@@ -29,7 +37,10 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 3 (Wednesday)**
+### **Lecture 3 (Wednesday, Week 2)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"14D_5iOaeyognGRPxjBdCcLVVJFTusiyx"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [14:49] | Detailed Non-uniqueness Analysis | Section 12 | 30 |
@@ -44,7 +55,10 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 4 (Friday)**
+### **Lecture 4 (Friday, Week 2)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"13u-aRNLu23lvMSjMbPA7kdk6y2lqmVeB"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [05:59] | Phase Portraits ($2 \times 2$) | Section 5.3 | 12–13 |
@@ -57,7 +71,10 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 5 (Wednesday)**
+### **Lecture 5 (Wednesday, Week 3)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1OP_eY-Gl8vreklxX3tcIMF78nO7PaBb3"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:52] | Exact Differential Equations | Section 17.3 | 73–74 |
@@ -69,7 +86,10 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 6 (Friday)**
+### **Lecture 6 (Friday, Week 3)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1BXJh0zYW4UJs7ewT6gVILVcgitDJO_5y"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [01:51] | Banach Contraction Mapping Theorem | Theorem 12.10 | 32 |
@@ -80,7 +100,10 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 7 (Wednesday)**
+### **Lecture 7 (Wednesday, Week 4)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1kHVv1ITvzy-Xs0IQSp-L80Y3Xl8BSFRC"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:43] | Three Goals: Existence, Uniqueness, Continuous Dependence | Section 12.2 | 32 |
@@ -98,7 +121,10 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 8 (Friday)**
+### **Lecture 8 (Friday, Week 4)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1_8bMGYNCsuQc2qS8L_W66i1IenLODCth"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:58] | Recap of Local Peano Theorem | Theorem 12.17 | 35 |
@@ -113,7 +139,10 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 9 (Wednesday)**
+### **Lecture 9 (Wednesday, Week 5)**
+
+[Transcript link]( https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1ti7ki_rTaN49BmfRthuTPki7cE7HZIWj"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:00] | Solving $x'=Ax$ via Picard Iteration | Section 8 | 23 |
@@ -124,7 +153,10 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 10 (Friday)**
+### **Lecture 10 (Friday, Week 5)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"11fgKyyie5-kJwTkXXno8m0944gJVVNvB"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:52] | Existence and Uniqueness Theorem Statement | Section 12.3 / Theorem 12.20 | 37 |
@@ -135,11 +167,14 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Midterm 1**
+### **Midterm 1, Week 6**
 
 ---
 
-### **Lecture 11 (Friday)**
+### **Lecture 11 (Friday, Week 6)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1b4EF0nkans7S68Vmca1Dx00An9J0NPlk"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:00] | Midterm Discussion & Grading | **Not in notes** | N/A |
@@ -156,7 +191,10 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 12 (Wednesday)**
+### **Lecture 12 (Wednesday, Week 8)**
+
+[Transcript link]( https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1-foasbgde2NZcJDAKZ9fLWJBv2TtDr7S"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:06] | Review: Gronwall's Inequality | Section 12.3: Uniqueness of solutions | 39 |
@@ -174,7 +212,10 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 13 (Friday)**
+### **Lecture 13 (Friday, Week 8)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1Z9TyDuvsTkiCjzdIVvI8ZI70PcmYuNkk"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:00] | Loose Ends: Treating parameters as initial values | Section 12.3 / Intro to Section 13 | 44 |
@@ -186,7 +227,10 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 14 (Wednesday)**
+### **Lecture 14 (Wednesday, Week 9)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1swz3Bi0rIz_-z7AwSVCeOAS3CtM2TU0x"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:38] | Determinant of Matrix Exponential & Jacobi's Formula | **Not in notes** | N/A |
@@ -203,7 +247,10 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 15 (Friday)**
+### **Lecture 15 (Friday, Week 9)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1ypjif0eEMMGVIyEz3rYEsLwWkHm9s7m9"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:00] | Questions & Logistics | **Not in notes** | N/A |
@@ -222,11 +269,14 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Midterm 2**
+### **Midterm 2, Week 10**
 
 ---
 
-### **Lecture 16 (Friday)**
+### **Lecture 16 (Friday, Week 10)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1RgFnfYHClZc4oIy4IZNxvlc_ayvkn1wH"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:00] | Trace-Determinant Plane | Section 6: Trace-Determinant Plane | 20 |
@@ -242,7 +292,9 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 17 (Wednesday)**
+### **Lecture 17 (Wednesday, Week 11)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1941iKjaEz30NnJmvIEo71uZPZd1iWumM"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
 
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
@@ -268,7 +320,9 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 18 (Friday)**
+### **Lecture 18 (Friday, Week 11)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1pJloVOH6qznLl4iSlD6AlrfNvJr-nxJt"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
 
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
@@ -288,3 +342,23 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 | [40:51] | Limitations of Topological Conjugacy | Section 14.2 | 58 |
 | [42:41] | 2D Special Case: Saddle Point Conjugacy | Section 14.2 | 58 |
 | [44:56] | Preview: Sinks and Distinct Negative Eigenvalues | Lemma 14.10 / Prop 14.12 | 58, 60 |
+
+---
+
+### **Lecture 19 (Wednesday, Week 12)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B"ids":%5B"1mHsLPtZGBoWbsdKnn-XMJNlRI5GVspBa"%5D,"action":"open","userId":"115004669661034761666","resourceKeys":%7B%7D%7D&usp=sharing)
+
+| Timestamp | Topic | MAT267.pdf Section | Page |
+| :--- | :--- | :--- | :--- |
+| [00:13] | Course Logistics & Grading Scheme | **Not in notes** | N/A |
+| [01:10] | Topological Conjugacy & Linearization | Section 14.1 / Theorem 14.9 (Hartman-Grobman) | 52, 58 |
+| [03:24] | Lyapunov Functions | Section 15.2 | 63 |
+| [05:01] | Homeomorphism & Conjugacy Proof | Section 14.1 | 52 |
+| [09:25] | Stopping Times & Boundary Intersections | **Not explicitly in notes** (Part of Hartman-Grobman proof) | N/A |
+| [14:04] | Implicit Function Theorem Application | **Not explicitly in notes** | N/A |
+| [44:50] | Eigenvalues with Negative Real Parts | Lemma 14.10 | 58 |
+| [58:11] | Nullclines | Section 15.1 | 62 |
+| [70:21] | Lotka-Volterra System Example | Section 15.1.1 | 62 |
+| [75:04] | Invariant Regions | Section 16.2 (Poincaré-Bendixson Theorem) | 68 |
+| [81:56] | Lyapunov's Theorem in Pictures | Section 15.2 / Theorem 15.3 | 63 |
