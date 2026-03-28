@@ -147,7 +147,7 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 | :--- | :--- | :--- | :--- |
 | [00:00] | Solving $x'=Ax$ via Picard Iteration | Section 8 | 23 |
 | [07:53] | Osgood's Uniqueness Theorem (Intro & Remarks) | Section 12.3 / Theorem 12.24 | 40 |
-| [22:11] | Proof of Osgood's Uniqueness Theorem | **In separate notes** | 40–42 |
+| [22:11] | Proof of Osgood's Uniqueness Theorem | **MaryPugh_4_Osgood_Uniqueness_Theorem.pdf** | 40–42 |
 | [73:21] | Existence & Uniqueness via Banach Fixed Point | Section 12.3 / Theorem 12.20 | 37 |
 | [91:16] | Midterm Information and Closing | **Not in notes** | N/A |
 
@@ -352,7 +352,7 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 | Timestamp | Topic | MAT267.pdf Section | Page |
 | :--- | :--- | :--- | :--- |
 | [00:13] | Course Logistics & Grading Scheme | **Not in notes** | N/A |
-| [01:10] | Topological Conjugacy & Linearization | Section 14.1 / Theorem 14.9 (Hartman-Grobman) | 52, 58 |
+| [01:10] | Discussion of Lemma 14.10 | Section 14.1 / Lemma 4.10 (Hartman-Grobman) / Tutorial 10 | 52, 58 |
 | [03:24] | Lyapunov Functions | Section 15.2 | 63 |
 | [05:01] | Homeomorphism & Conjugacy Proof | Section 14.1 | 52 |
 | [09:25] | Stopping Times & Boundary Intersections | **Not explicitly in notes** (Part of Hartman-Grobman proof) | N/A |
@@ -362,3 +362,21 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 | [70:21] | Lotka-Volterra System Example | Section 15.1.1 | 62 |
 | [75:04] | Invariant Regions | Section 16.2 (Poincaré-Bendixson Theorem) | 68 |
 | [81:56] | Lyapunov's Theorem in Pictures | Section 15.2 / Theorem 15.3 | 63 |
+
+---
+
+### **Lecture 20**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221zZlE301nCBFZafwf4opc2FIE4NGa5NKF%22%5D,%22action%22:%22open%22,%22userId%22:%22115004669661034761666%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
+
+
+| Timestamp | Topic | MAT267.pdf Section | Page |
+| :--- | :--- | :--- | :--- |
+| [00:00] | Gradient Systems | Section 15.3 Gradient Systems | 64 |
+| [02:08] | Hamiltonian Systems | Section 15.4 Hamiltonian Systems | 64 |
+| [04:02] | The Pendulum Example | Section 10.1 Example | 27 |
+| [18:30] | Limit Sets ($\omega$ and $\alpha$ limit sets) | Section 16 Limit Sets | 66 |
+| [29:30] | Cantor's Intersection Theorem | **Not explicitly in notes** (Used for Limit Sets proofs) | N/A |
+| [34:54] | Examples of Limit Sets | Section 16.1 Examples | 66 |
+| [38:10] | Properties of Limit Sets | Section 16 Limit Sets (Proposition 16.4) | 66 |
+| [40:18] | Poincaré-Bendixson Theorem | Section 16.2 Poincaré-Bendixson Theorem | 68 |
