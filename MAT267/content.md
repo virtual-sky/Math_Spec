@@ -365,7 +365,7 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture 20**
+### **Lecture 20 (Friday, Week 12)**
 
 [Transcript link](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221zZlE301nCBFZafwf4opc2FIE4NGa5NKF%22%5D,%22action%22:%22open%22,%22userId%22:%22115004669661034761666%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 
