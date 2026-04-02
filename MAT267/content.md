@@ -361,7 +361,7 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 | [58:11] | Nullclines | Section 15.1 | 62 |
 | [70:21] | Lotka-Volterra System Example | Section 15.1.1 | 62 |
 | [75:04] | Invariant Regions | Section 16.2 (Poincaré-Bendixson Theorem) | 68 |
-| [81:56] | Lyapunov's Theorem in Pictures | Section 15.2 / Theorem 15.3 | 63 |
+| [81:56] | Lyapunov's Theorem in Pictures | Section 15.2 / Theorem 15.3 / Tutorial 10 | 63 |
 
 ---
 
@@ -380,3 +380,20 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 | [34:54] | Examples of Limit Sets | Section 16.1 Examples | 66 |
 | [38:10] | Properties of Limit Sets | Section 16 Limit Sets (Proposition 16.4) | 66 |
 | [40:18] | Poincaré-Bendixson Theorem | Section 16.2 Poincaré-Bendixson Theorem | 68 |
+
+---
+
+### **Lecture (Friday, Week 12)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221t_Vqe6rpQM4SmW5crZ-oCixi3ACGDPuf%22%5D,%22action%22:%22open%22,%22userId%22:%22115004669661034761666%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
+
+| Timestamp | Topic | MAT267.pdf Section | Page |
+| :--- | :--- | :--- | :--- |
+| [00:00] | Quiz Review & Limit Sets Properties ($\omega(x)$ is closed, invariant, etc.) | 16 Limit Sets / Prop 16.4 | 66 |
+| [13:00] | Connectedness of Limit Sets | 16 Limit Sets / Prop 16.4 | 66-67 |
+| [29:00] | Positively Invariant Sets | 16.2 Poincaré-Bendixson Theorem (Proof concepts) | 68-69 |
+| [31:23] | Jordan Curve Theorem | 16.2 Poincaré-Bendixson Theorem | 68 |
+| [38:49] | Poincaré-Bendixson Theorem (Statement & Overview) | 16.2 Poincaré-Bendixson Theorem | 68 |
+| [50:02] | Local Sections and Transversality | 16.2 Poincaré-Bendixson Theorem / Def 16.6 | 68-69 |
+| [62:00] | Monotonicity of Intersections on Sections | 16.2 Poincaré-Bendixson Theorem | 69-71 |
+| [70:33] | Bounding the Time Between Intersections | 16.2 Poincaré-Bendixson Theorem | 71 |
