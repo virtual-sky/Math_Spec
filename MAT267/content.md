@@ -383,7 +383,7 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 
 ---
 
-### **Lecture (Friday, Week 12)**
+### **Lecture 21 (Wednesday, Week 13)**
 
 [Transcript link](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221t_Vqe6rpQM4SmW5crZ-oCixi3ACGDPuf%22%5D,%22action%22:%22open%22,%22userId%22:%22115004669661034761666%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 
@@ -397,3 +397,19 @@ It's AI-generated based on transcripts in #mat267-resources in the math spec dis
 | [50:02] | Local Sections and Transversality | 16.2 Poincaré-Bendixson Theorem / Def 16.6 | 68-69 |
 | [62:00] | Monotonicity of Intersections on Sections | 16.2 Poincaré-Bendixson Theorem | 69-71 |
 | [70:33] | Bounding the Time Between Intersections | 16.2 Poincaré-Bendixson Theorem | 71 |
+
+
+---
+
+### **Lecture 22 (Friday, Week 13 makeup lecture)**
+
+[Transcript link](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221vgK0FIx_cZvXEf7CsOQSIynSZ_7OSJ6J%22%5D,%22action%22:%22open%22,%22userId%22:%22115004669661034761666%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
+
+| Timestamp | Topic | MAT267.pdf Section | Page |
+| :--- | :--- | :--- | :--- |
+| [00:00] | Q&A and Poincaré-Bendixson Theorem Recap | Section 16.2: Poincaré-Bendixson Theorem | 68 |
+| [13:40] | Definition of a Limit Cycle | Section 16.2: Poincaré-Bendixson Theorem | 68 |
+| [15:46] | Corollary 1 & Proof (Spiraling towards a limit cycle) | Section 16.2: Poincaré-Bendixson Theorem | 68–71 |
+| [33:30] | Corollary 2 & Proof (Compact invariant sets) | Section 16.2: Poincaré-Bendixson Theorem | 68–71 |
+| [36:00] | Corollary 3 & Proof (Equilibria inside closed orbits) | Section 16.2: Poincaré-Bendixson Theorem | 68–71 |
+| [51:00] | Corollary 4 & Proof (Refinement of Corollary 3) | Section 16.2: Poincaré-Bendixson Theorem | 68–71 |
